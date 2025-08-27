@@ -1,9 +1,5 @@
 namespace TemperatureApp
-{
-    /// <summary>
-    /// Encapsulated temperature converter.
-    /// Stores Celsius internally and provides conversion methods.
-    /// </summary>
+{   /// Encapsulated temperature converter.
     public class TempConverter
     {
         private double celsius;
@@ -13,25 +9,25 @@ namespace TemperatureApp
             celsius = c;
         }
 
-        /// <summary>Sets temperature in Celsius.</summary>
+        /// Sets temperature in Celsius
         public void SetCelsius(double c)
         {
             celsius = c;
         }
 
-        /// <summary>Gets temperature in Celsius.</summary>
+        /// Gets temperature in Celsius
         public double GetCelsius()
         {
             return celsius;
         }
 
-        /// <summary>Sets temperature in Fahrenheit (internally converted to Celsius).</summary>
+        /// Sets temperature in Fahrenheit (internally converted to Celsius).
         public void SetFahrenheit(double f)
         {
             celsius = (f - 32) * 5.0 / 9.0;
         }
 
-        /// <summary>Gets temperature in Fahrenheit.</summary>
+        /// Gets temperature in Fahrenheit.
         public double GetFahrenheit()
         {
             return (celsius * 9.0 / 5.0) + 32;
