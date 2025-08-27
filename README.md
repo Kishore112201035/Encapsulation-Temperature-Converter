@@ -3,8 +3,8 @@ Hide internal representation and provide conversion between Celsius and Fahrenhe
 
 
 
-# Temperature Converter (.NET)
-112201035 M KISHORE
+
+**#112201035 M KISHORE**
 CS5617 individual project.
 
 - Stores temperature internally in Celsius (private field).
