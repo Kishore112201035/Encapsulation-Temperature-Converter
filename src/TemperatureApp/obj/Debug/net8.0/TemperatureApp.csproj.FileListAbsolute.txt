@@ -1,0 +1,11 @@
+/home/kishore/Documents/sem-7/TempConverterApp/src/TemperatureApp/bin/Debug/net8.0/TemperatureApp.deps.json
+/home/kishore/Documents/sem-7/TempConverterApp/src/TemperatureApp/bin/Debug/net8.0/TemperatureApp.dll
+/home/kishore/Documents/sem-7/TempConverterApp/src/TemperatureApp/bin/Debug/net8.0/TemperatureApp.pdb
+/home/kishore/Documents/sem-7/TempConverterApp/src/TemperatureApp/obj/Debug/net8.0/TemperatureApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/kishore/Documents/sem-7/TempConverterApp/src/TemperatureApp/obj/Debug/net8.0/TemperatureApp.AssemblyInfoInputs.cache
+/home/kishore/Documents/sem-7/TempConverterApp/src/TemperatureApp/obj/Debug/net8.0/TemperatureApp.AssemblyInfo.cs
+/home/kishore/Documents/sem-7/TempConverterApp/src/TemperatureApp/obj/Debug/net8.0/TemperatureApp.csproj.CoreCompileInputs.cache
+/home/kishore/Documents/sem-7/TempConverterApp/src/TemperatureApp/obj/Debug/net8.0/TemperatureApp.dll
+/home/kishore/Documents/sem-7/TempConverterApp/src/TemperatureApp/obj/Debug/net8.0/refint/TemperatureApp.dll
+/home/kishore/Documents/sem-7/TempConverterApp/src/TemperatureApp/obj/Debug/net8.0/TemperatureApp.pdb
+/home/kishore/Documents/sem-7/TempConverterApp/src/TemperatureApp/obj/Debug/net8.0/ref/TemperatureApp.dll
