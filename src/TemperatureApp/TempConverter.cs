@@ -3,7 +3,6 @@ namespace TemperatureApp
     public class TempConverter
     {
         private double celsius;
-
         public TempConverter(double c = 0.0)
         {
             celsius = c;
@@ -14,19 +13,16 @@ namespace TemperatureApp
         {
             celsius = c;
         }
-
         /// Gets temperature in Celsius
         public double GetCelsius()
         {
             return celsius;
         }
-
         /// Sets temperature in Fahrenheit (internally converted to Celsius).
         public void SetFahrenheit(double f)
         {
             celsius = (f - 32) * 5.0 / 9.0;
         }
-
         /// Gets temperature in Fahrenheit.
         public double GetFahrenheit()
         {
