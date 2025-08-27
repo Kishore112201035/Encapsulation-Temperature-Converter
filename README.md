@@ -11,6 +11,20 @@ CS5617 individual project.
 - Provides controlled access to convert between Celsius and Fahrenheit.
 - Unit tests with xUnit.
 
+**#Structure**
+Encapsulation-Temperature-Converter-main
+├── README.md
+├── TempConverterApp.sln
+└── src
+    └── TemperatureApp
+        ├── TempConverter.cs
+        └── TemperatureApp.csproj
+└── tests
+    └── TemperatureTests
+        ├── TemperatureTests.cs
+        └── TemperatureTests.csproj
+
+
 
 ## Build & Test
 ```bash
