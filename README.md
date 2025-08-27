@@ -7,22 +7,19 @@ Hide internal representation and provide conversion between Celsius and Fahrenhe
 **#112201035 M KISHORE**
 CS5617 individual project.
 
-- Stores temperature internally in Celsius (private field).
-- Provides controlled access to convert between Celsius and Fahrenheit.
-- Unit tests with xUnit.
+**Encapsulation** : Private field celsius, accessed via getters/setters (GetCelsius, SetCelsius, etc.).<br>
+**Abstraction** : Users don’t need to know conversion formulas; they just call methods.<br>
+**No Inheritance** : Polymorphism here → Only a single class with encapsulation and behavior.<br>
 
-**#Structure**
-Encapsulation-Temperature-Converter-main
-├── README.md
-├── TempConverterApp.sln
-└── src
-    └── TemperatureApp
-        ├── TempConverter.cs
-        └── TemperatureApp.csproj
-└── tests
-    └── TemperatureTests
-        ├── TemperatureTests.cs
-        └── TemperatureTests.csproj
+# UML Diagram
+<img width="533" height="354" alt="image" src="https://github.com/user-attachments/assets/85b879e0-35f9-42eb-9eb8-7c84c876f6f6" />
+
+
+
+# Structure
+<img width="315" height="231" alt="image" src="https://github.com/user-attachments/assets/518de128-d88c-4129-8180-d1698112284b" />
+
+
 
 
 
